@@ -27,7 +27,7 @@ We will be looking at trends in crowdfunding data from Kickstarter. The dataset 
 # Analysis
 We began by comparing campaign outcomes for all categories and found that while the theater category had the most successful campaigns, it also had the largest number of failures. 
 
-![ParentCategoryOutcomes.png](/Users/charlotteuden/Desktop/bootcamp/analysis_projects/crowdfunding_analysis/ParentCategotyOutcomes.png)
+![ParentCategoryOutcomes.png](https://github.com/charliuden/kickstarter-analysis/blob/main/ParentCategotyOutcomes.png)
 
 To make sure that Louise falls into the successful outcome group, we next compared outcomes based on the launch date of campaigns. The most successful campaigns were those launched between May and August. Failed campaigns remain a steady count across all months. 
 
