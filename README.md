@@ -24,7 +24,7 @@ We will be looking at trends in crowdfunding data from Kickstarter. The dataset 
     
     * The final four columns were created from other columns in the dataset
 
-# Analysis
+## Analysis
 We began by comparing campaign outcomes for all categories and found that while the theater category had the most successful campaigns, it also had the largest number of failures. 
 
 ![ParentCategoryOutcomes.png](https://github.com/charliuden/kickstarter-analysis/blob/main/ParentCategotyOutcomes.png)
@@ -41,5 +41,5 @@ The location of Louise's campaign also matters - she would like her play to be i
 
 ![Boxplot_GB_Goals_Pledges.png](https://github.com/charliuden/kickstarter-analysis/blob/main/Boxplot_GB_Goals_Pledges.png)
 
-# Conclusions
+## Conclusions
 Based on this analysis, I would recommend that Louise starts her campaign in May. At this point in my analysis, I also would recommend she set a goal of no more than $2,140.74 (the mean goal for all play campaign outcomes). However, I think a good next step would be to look at the relationship between a campaign start date and goal amount -were those campaigns that failed, despite setting reasonable goals, unsuccessful because of the start date? 
